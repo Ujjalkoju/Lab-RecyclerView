@@ -1,7 +1,7 @@
 # RecyclerView
-## Task2: Create a RecyclerView
+## Task3: Make the list interactive
 ### App ScreenShot
-![](./task2.jpg)
+![](./task3.jpg)
 
 
 
