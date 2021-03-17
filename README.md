@@ -1,7 +1,7 @@
 # RecyclerView
-## Task1: Create a new project and dataset
+## Task2: Create a RecyclerView
 ### App ScreenShot
-![](./task1.jpg)
+![](./task2.jpg)
 
 
 
